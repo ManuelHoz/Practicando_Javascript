@@ -1,2 +1,2 @@
 # Practicando_Javascript
-Repositario dedicado a practicar JavasScript y Git
+Repositorio dedicado a practicar JavasScript y Git
